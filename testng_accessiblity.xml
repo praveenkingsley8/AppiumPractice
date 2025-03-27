@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="LoginTestSuite">
+    <listeners>
+        <listener class-name="listener.TestListener"/>
+
+    </listeners>
+    <test name="AccessibilityTest">
+        <classes>
+            <class name="test.TC2_AccessibilityTest">
+                <methods>
+                    <method name="accessibilityFunctionalityTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
