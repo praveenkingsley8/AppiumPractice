@@ -6,10 +6,9 @@
     </listeners>
     <test name="LoginTest">
         <classes>
-            <class name="test.TC1_LoginTest">
+            <class name="test.TC10_EntryDialogAlertTest">
                 <methods>
-                    <method name="loginTest"/>
-                    <method name="registrationTest"/>
+                    <method name="entryDialogFunctionalityTest"/>
                 </methods>
             </class>
         </classes>

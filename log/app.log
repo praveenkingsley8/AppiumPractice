@@ -1167,3 +1167,6 @@ Session ID: 122fe021-0151-408a-9e4c-dd87358924ae
 14:53:33.046 [main]INFO  test.TC10_EntryDialogAlertTest - Text (password) sent successfully to element: [[AndroidDriver:  on ANDROID (95cfde98-3d13-4578-9d0c-81836d628655)] -> xpath: //android.widget.EditText[@resource-id="io.appium.android.apis:id/password_edit"]]
 14:53:33.196 [main]INFO  test.TC10_EntryDialogAlertTest - Element is displayed within 5 seconds
 14:53:34.063 [main]INFO  test.TC10_EntryDialogAlertTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.Button[@resource-id="android:id/button1"]'
+15:00:14.887 [main]INFO  test.TC1_LoginTest - ************* DRIVER STARTED *************
+15:00:14.893 [main]INFO  test.TC1_LoginTest - ************* PLATFORM -> ANDROID
+15:00:14.894 [main]INFO  test.TC1_LoginTest - ************* INSTALLING APP -> ApiDemos-debug.apk
