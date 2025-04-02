@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="LoginTestSuite">
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
     <listeners>
         <listener class-name="listener.TestListener"/>
-
     </listeners>
-    <test name="LoginTest">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/User/Desktop/AppiumPractice/src/test/java/test/TC3_CustomAdapterLongPressTest.java">
         <classes>
-            <class name="test.TC10_EntryDialogAlertTest">
-                <methods>
-                    <method name="entryDialogFunctionalityTest"/>
-                </methods>
-            </class>
+            <class name="test.TC3_CustomAdapterLongPressTest"/>
+            <class name="test.TC4_ScrollTest"/>
+            <class name="test.TC5_GallerySwipeTest"/>
+            <class name="test.TC6_DragAndDropTest"/>
+            <class name="test.TC7_FlipTapTest"/>
+            <class name="test.TC8_SimpleAlertTest"/>
+            <class name="test.TC9_SingleChoiceAlertTest"/>
+            <class name="test.TC10_EntryDialogAlertTest"/>
+            <class name="test.TC11_RepeatAlertTest"/>
         </classes>
     </test>
 </suite>

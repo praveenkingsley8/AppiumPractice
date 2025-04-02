@@ -1170,3 +1170,328 @@ Session ID: 122fe021-0151-408a-9e4c-dd87358924ae
 15:00:14.887 [main]INFO  test.TC1_LoginTest - ************* DRIVER STARTED *************
 15:00:14.893 [main]INFO  test.TC1_LoginTest - ************* PLATFORM -> ANDROID
 15:00:14.894 [main]INFO  test.TC1_LoginTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+15:01:03.816 [main]INFO  test.TC10_EntryDialogAlertTest - ************* DRIVER STARTED *************
+15:01:03.819 [main]INFO  test.TC10_EntryDialogAlertTest - ************* PLATFORM -> ANDROID
+15:01:03.820 [main]INFO  test.TC10_EntryDialogAlertTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+15:01:05.198 [main]INFO  test.TC10_EntryDialogAlertTest - Element is displayed within 5 seconds
+15:01:07.569 [main]INFO  test.TC10_EntryDialogAlertTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="App"]'
+15:01:08.130 [main]INFO  test.TC10_EntryDialogAlertTest - Element is displayed within 5 seconds
+15:01:10.844 [main]INFO  test.TC10_EntryDialogAlertTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Alert Dialogs"]'
+15:01:11.056 [main]INFO  test.TC10_EntryDialogAlertTest - Element is displayed within 20 seconds
+15:01:11.620 [main]INFO  test.TC10_EntryDialogAlertTest - Element is displayed within 5 seconds
+15:01:12.930 [main]INFO  test.TC10_EntryDialogAlertTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.Button[@content-desc="Text Entry dialog"]'
+15:01:14.461 [main]INFO  test.TC10_EntryDialogAlertTest - Text (god) sent successfully to element: [[AndroidDriver:  on ANDROID (68f0321a-8453-4db0-be70-8de2d51f1d5f)] -> xpath: //android.widget.EditText[@resource-id="io.appium.android.apis:id/username_edit"]]
+15:01:15.912 [main]INFO  test.TC10_EntryDialogAlertTest - Text (password) sent successfully to element: [[AndroidDriver:  on ANDROID (68f0321a-8453-4db0-be70-8de2d51f1d5f)] -> xpath: //android.widget.EditText[@resource-id="io.appium.android.apis:id/password_edit"]]
+15:01:16.033 [main]INFO  test.TC10_EntryDialogAlertTest - Element is displayed within 5 seconds
+15:01:16.918 [main]INFO  test.TC10_EntryDialogAlertTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.Button[@resource-id="android:id/button1"]'
+15:23:15.926 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* DRIVER STARTED *************
+15:23:15.932 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* PLATFORM -> ANDROID
+15:23:15.932 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+15:23:18.151 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+15:23:20.984 [main]ERROR test.TC3_CustomAdapterLongPressTest - Error clicking the element: Cannot invoke "com.aventstack.extentreports.ExtentTest.pass(String, com.aventstack.extentreports.model.Media)" because the return value of "report.ReportManager.getExtentTest()" is null
+15:23:29.669 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* DRIVER STARTED *************
+15:23:29.670 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* PLATFORM -> ANDROID
+15:23:29.671 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+15:23:31.537 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+15:23:33.235 [main]ERROR test.TC3_CustomAdapterLongPressTest - Error clicking the element: Cannot invoke "com.aventstack.extentreports.ExtentTest.pass(String, com.aventstack.extentreports.model.Media)" because the return value of "report.ReportManager.getExtentTest()" is null
+15:24:23.283 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* DRIVER STARTED *************
+15:24:23.293 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* PLATFORM -> ANDROID
+15:24:23.293 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+15:24:24.472 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+15:24:26.123 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+15:24:32.013 [main]INFO  test.TC3_CustomAdapterLongPressTest - Scroll to element successfully: [[AndroidDriver:  on ANDROID (f1f707b6-bab5-4428-854e-d734635869f0)] -> xpath: //android.widget.TextView[@content-desc="WebView3"]]
+15:24:34.762 [main]ERROR test.TC3_CustomAdapterLongPressTest - Error while scrolling up to element: Animation
+org.openqa.selenium.InvalidElementStateException: Unable to perform W3C actions. Check the logcat output for possible error reports and make sure your input actions chain is valid.
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [f1f707b6-bab5-4428-854e-d734635869f0, actions {actions=[org.openqa.selenium.interactions.Sequence@77bd7fe7]}]
+Capabilities {appium:app: C:\Users\User\Desktop\Appiu..., appium:appActivity: io.appium.android.apis.ApiD..., appium:appPackage: io.appium.android.apis, appium:automationName: UIAutomator2, appium:databaseEnabled: false, appium:desired: {app: C:\Users\User\Desktop\Appiu..., automationName: UIAutomator2, deviceName: pixel, platformName: ANDROID}, appium:deviceApiLevel: 30, appium:deviceManufacturer: Google, appium:deviceModel: sdk_gphone_x86_64, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2400, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 11, appium:statBarHeight: 145, appium:takesScreenshot: true, appium:viewportRect: {height: 2255, left: 0, top: 145, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: f1f707b6-bab5-4428-854e-d734635869f0
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.30.0.jar:?]
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:243) ~[java-client-9.4.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.perform(RemoteWebDriver.java:631) ~[selenium-remote-driver-4.30.0.jar:?]
+	at utils.AppiumUtils.scrollUpToElement(AppiumUtils.java:211) ~[test-classes/:?]
+	at test.TC4_ScrollTest.scrollFunctionalityTest(TC4_ScrollTest.java:22) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135) ~[testng-7.5.jar:7.5]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673) ~[testng-7.5.jar:7.5]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220) ~[testng-7.5.jar:7.5]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.5.jar:7.5]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945) ~[testng-7.5.jar:7.5]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193) ~[testng-7.5.jar:7.5]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.5.jar:7.5]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.5.jar:7.5]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:808) [testng-7.5.jar:7.5]
+	at org.testng.TestRunner.run(TestRunner.java:603) [testng-7.5.jar:7.5]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:429) [testng-7.5.jar:7.5]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423) [testng-7.5.jar:7.5]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383) [testng-7.5.jar:7.5]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:326) [testng-7.5.jar:7.5]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.5.jar:7.5]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.5.jar:7.5]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249) [testng-7.5.jar:7.5]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169) [testng-7.5.jar:7.5]
+	at org.testng.TestNG.runSuites(TestNG.java:1092) [testng-7.5.jar:7.5]
+	at org.testng.TestNG.run(TestNG.java:1060) [testng-7.5.jar:7.5]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+15:24:42.784 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* DRIVER STARTED *************
+15:24:42.784 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* PLATFORM -> ANDROID
+15:24:42.784 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+15:24:44.805 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+15:24:46.772 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+15:24:46.983 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+15:24:48.588 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Expandable Lists"]'
+15:24:48.736 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+15:24:50.341 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="1. Custom Adapter"]'
+15:24:50.507 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 20 seconds
+15:24:52.914 [main]INFO  test.TC3_CustomAdapterLongPressTest - Long pressed successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@text="Cat Names"]'
+15:24:53.145 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 3 seconds
+15:24:53.617 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+15:24:55.375 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@resource-id="android:id/title" and @text="Sample action"]'
+15:29:00.544 [main]INFO  test.TC4_ScrollTest - ************* DRIVER STARTED *************
+15:29:00.549 [main]INFO  test.TC4_ScrollTest - ************* PLATFORM -> ANDROID
+15:29:00.549 [main]INFO  test.TC4_ScrollTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+15:29:02.035 [main]INFO  test.TC4_ScrollTest - Element is displayed within 5 seconds
+15:29:03.686 [main]INFO  test.TC4_ScrollTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+15:29:09.561 [main]INFO  test.TC4_ScrollTest - Scroll to element successfully: [[AndroidDriver:  on ANDROID (390a3ea3-713d-4a1d-8489-a2012015bbae)] -> xpath: //android.widget.TextView[@content-desc="WebView3"]]
+15:29:17.163 [main]INFO  test.TC4_ScrollTest - Scroll up to element successfully: [[AndroidDriver:  on ANDROID (390a3ea3-713d-4a1d-8489-a2012015bbae)] -> xpath: //android.widget.TextView[@content-desc="Animation"]]
+15:29:22.381 [main]ERROR test.TC4_ScrollTest - Element not displayed within 5 seconds
+15:58:03.180 [main]INFO  test.TC4_ScrollTest - ************* DRIVER STARTED *************
+15:58:03.185 [main]INFO  test.TC4_ScrollTest - ************* PLATFORM -> ANDROID
+15:58:03.185 [main]INFO  test.TC4_ScrollTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+15:58:04.391 [main]INFO  test.TC4_ScrollTest - Element is displayed within 5 seconds
+15:58:06.108 [main]INFO  test.TC4_ScrollTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+15:58:14.049 [main]INFO  test.TC4_ScrollTest - Scroll to element successfully: [[AndroidDriver:  on ANDROID (a2588e3e-5625-4c07-819f-6cc3cc9cea6a)] -> xpath: //android.widget.TextView[@content-desc="WebView3"]]
+15:58:21.465 [main]INFO  test.TC4_ScrollTest - Scroll up to element successfully: [[AndroidDriver:  on ANDROID (a2588e3e-5625-4c07-819f-6cc3cc9cea6a)] -> xpath: //android.widget.TextView[@content-desc="Animation"]]
+15:58:22.796 [main]ERROR test.TC4_ScrollTest - Element not displayed within 1 seconds
+15:58:23.437 [main]INFO  test.TC4_ScrollTest - Pressed the back button on Android
+15:58:24.090 [main]INFO  test.TC4_ScrollTest - Element is displayed within 2 seconds
+15:58:24.241 [main]INFO  test.TC4_ScrollTest - Element is displayed within 5 seconds
+15:58:25.683 [main]INFO  test.TC4_ScrollTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+15:58:25.805 [main]INFO  test.TC4_ScrollTest - Element is displayed within 5 seconds
+15:58:27.478 [main]INFO  test.TC4_ScrollTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Expandable Lists"]'
+15:58:27.625 [main]INFO  test.TC4_ScrollTest - Element is displayed within 5 seconds
+15:58:29.103 [main]INFO  test.TC4_ScrollTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="1. Custom Adapter"]'
+15:58:29.224 [main]INFO  test.TC4_ScrollTest - Element is displayed within 20 seconds
+15:58:31.155 [main]INFO  test.TC4_ScrollTest - Long pressed successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@text="Cat Names"]'
+15:58:31.321 [main]INFO  test.TC4_ScrollTest - Element is displayed within 3 seconds
+15:58:31.972 [main]INFO  test.TC4_ScrollTest - Element is displayed within 5 seconds
+15:58:33.354 [main]INFO  test.TC4_ScrollTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@resource-id="android:id/title" and @text="Sample action"]'
+15:58:34.528 [main]ERROR test.TC4_ScrollTest - Element not displayed within 1 seconds
+15:58:35.618 [main]INFO  test.TC4_ScrollTest - Pressed the back button on Android
+15:58:38.014 [main]ERROR test.TC4_ScrollTest - Element not displayed within 2 seconds
+15:58:38.622 [main]INFO  test.TC4_ScrollTest - Pressed the back button on Android
+15:58:41.062 [main]ERROR test.TC4_ScrollTest - Element not displayed within 2 seconds
+15:58:41.668 [main]INFO  test.TC4_ScrollTest - Pressed the back button on Android
+15:58:42.328 [main]INFO  test.TC4_ScrollTest - Element is displayed within 2 seconds
+16:02:26.770 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* DRIVER STARTED *************
+16:02:26.786 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* PLATFORM -> ANDROID
+16:02:26.790 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+16:02:27.772 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:02:29.530 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+16:02:29.705 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:02:31.073 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Expandable Lists"]'
+16:02:31.189 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:02:32.660 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="1. Custom Adapter"]'
+16:02:32.836 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 20 seconds
+16:02:34.686 [main]INFO  test.TC3_CustomAdapterLongPressTest - Long pressed successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@text="Cat Names"]'
+16:02:34.784 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 3 seconds
+16:02:35.243 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:02:36.358 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@resource-id="android:id/title" and @text="Sample action"]'
+16:02:37.594 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 1 seconds
+16:02:38.686 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:02:41.022 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 2 seconds
+16:02:41.619 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:02:44.014 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 2 seconds
+16:02:44.655 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:02:45.327 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 2 seconds
+16:02:45.477 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:02:46.963 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+16:02:52.647 [main]INFO  test.TC3_CustomAdapterLongPressTest - Scroll to element successfully: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.TextView[@content-desc="WebView3"]]
+16:02:58.709 [main]INFO  test.TC3_CustomAdapterLongPressTest - Scroll up to element successfully: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.TextView[@content-desc="Animation"]]
+16:02:59.903 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 1 seconds
+16:03:00.518 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:03:01.369 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 2 seconds
+16:03:01.491 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:03:03.329 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+16:03:03.467 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:03:04.868 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Gallery"]'
+16:03:04.971 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:03:06.909 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="1. Photos"]'
+16:03:07.030 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 20 seconds
+16:03:11.162 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 1 seconds
+16:03:11.827 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:03:14.140 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 2 seconds
+16:03:14.753 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:03:17.069 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 2 seconds
+16:03:17.700 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:03:18.340 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 2 seconds
+16:03:18.434 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:03:19.738 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+16:03:19.854 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:03:21.214 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Drag and Drop"]'
+16:03:21.291 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 20 seconds
+16:03:29.925 [main]INFO  test.TC3_CustomAdapterLongPressTest - Drag and Drop performed successfully 
+16:03:31.343 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 1 seconds
+16:03:31.685 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:03:34.091 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 2 seconds
+16:03:34.172 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:03:36.465 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 2 seconds
+16:03:36.523 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:03:38.734 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 2 seconds
+16:03:38.786 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:03:41.321 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 2 seconds
+16:03:41.368 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:03:43.615 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 2 seconds
+16:03:43.666 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:03:45.959 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 2 seconds
+16:03:46.670 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:03:48.981 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 2 seconds
+16:03:49.769 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:03:50.496 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 2 seconds
+16:03:50.624 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:03:52.457 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Animation"]'
+16:03:52.588 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:03:54.115 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="View Flip"]'
+16:03:54.197 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 20 seconds
+16:03:56.485 [main]INFO  test.TC3_CustomAdapterLongPressTest - Tapped successfully: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.Button[@content-desc="Flip"]]
+16:03:57.653 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 1 seconds
+16:03:58.284 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:04:00.673 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 2 seconds
+16:04:01.860 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:04:02.517 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 2 seconds
+16:04:02.636 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:04:03.941 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="App"]'
+16:04:04.060 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:04:05.344 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Alert Dialogs"]'
+16:04:05.439 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 20 seconds
+16:04:05.937 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:04:07.164 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.Button[@content-desc="OK Cancel dialog with a message"]'
+16:04:07.292 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:04:08.157 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.Button[@resource-id="android:id/button1"]'
+16:04:09.323 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 1 seconds
+16:04:09.967 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:04:12.290 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 2 seconds
+16:04:12.865 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:04:13.504 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 2 seconds
+16:04:13.622 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:04:14.898 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="App"]'
+16:04:15.021 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:04:16.332 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Alert Dialogs"]'
+16:04:16.431 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 20 seconds
+16:04:16.833 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:04:18.067 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.Button[@content-desc="Single choice list"]'
+16:04:18.115 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:18.156 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Map
+16:04:18.156 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:18.196 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Satellite
+16:04:18.197 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:18.237 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Traffic
+16:04:18.237 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:18.280 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Street view
+16:04:18.324 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:04:19.427 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:19.550 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:04:20.366 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.Button[@resource-id="android:id/button1"]'
+16:04:21.533 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 1 seconds
+16:04:22.135 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:04:24.419 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 2 seconds
+16:04:25.036 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:04:25.710 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 2 seconds
+16:04:25.867 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:04:27.331 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="App"]'
+16:04:27.478 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:04:28.966 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Alert Dialogs"]'
+16:04:29.081 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 20 seconds
+16:04:29.541 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:04:30.802 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.Button[@content-desc="Text Entry dialog"]'
+16:04:32.117 [main]INFO  test.TC3_CustomAdapterLongPressTest - Text (god) sent successfully to element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.EditText[@resource-id="io.appium.android.apis:id/username_edit"]]
+16:04:33.420 [main]INFO  test.TC3_CustomAdapterLongPressTest - Text (password) sent successfully to element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.EditText[@resource-id="io.appium.android.apis:id/password_edit"]]
+16:04:33.530 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:04:34.395 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.Button[@resource-id="android:id/button1"]'
+16:04:35.622 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 1 seconds
+16:04:36.302 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:04:38.655 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 2 seconds
+16:04:39.220 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:04:39.896 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 2 seconds
+16:04:40.023 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:04:41.294 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="App"]'
+16:04:41.406 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:04:43.204 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Alert Dialogs"]'
+16:04:43.328 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 20 seconds
+16:04:44.053 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:04:45.308 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.Button[@content-desc="Repeat alarm"]'
+16:04:45.344 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:45.376 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Monday
+16:04:45.422 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:04:46.641 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:46.641 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:46.694 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Tuesday
+16:04:46.694 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:46.743 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Tuesday
+16:04:47.111 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:47.225 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Wednesday
+16:04:47.225 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:47.327 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Wednesday
+16:04:47.327 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:47.409 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Wednesday
+16:04:47.473 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:04:48.512 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:48.512 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:48.550 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Thursday
+16:04:48.550 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:48.589 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Thursday
+16:04:48.590 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:48.624 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Thursday
+16:04:48.625 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:48.662 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Thursday
+16:04:48.982 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:49.023 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Friday
+16:04:49.023 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:49.059 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Friday
+16:04:49.059 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:49.094 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Friday
+16:04:49.094 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:49.132 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Friday
+16:04:49.132 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:49.168 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Friday
+16:04:49.373 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:04:50.565 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:50.565 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:50.611 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Saturday
+16:04:50.612 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:50.653 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Saturday
+16:04:50.653 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:50.700 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Saturday
+16:04:50.701 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:50.749 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Saturday
+16:04:50.751 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:50.794 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Saturday
+16:04:51.159 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:51.293 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Sunday
+16:04:51.293 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:51.396 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Sunday
+16:04:51.396 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:51.481 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Sunday
+16:04:51.481 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:51.530 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Sunday
+16:04:51.530 [main]INFO  test.TC3_CustomAdapterLongPressTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (56755bc6-bcc1-41a9-b986-b124ab4cb2f5)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+16:04:51.579 [main]INFO  test.TC3_CustomAdapterLongPressTest - Successfully retrieved text from element: Every Sunday
+16:04:52.063 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+16:04:52.892 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.Button[@resource-id="android:id/button1"]'
+16:04:54.091 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 1 seconds
+16:04:54.669 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:04:56.945 [main]ERROR test.TC3_CustomAdapterLongPressTest - Element not displayed within 2 seconds
+16:04:57.585 [main]INFO  test.TC3_CustomAdapterLongPressTest - Pressed the back button on Android
+16:04:58.252 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 2 seconds

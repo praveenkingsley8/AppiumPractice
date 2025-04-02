@@ -7,6 +7,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import org.testng.annotations.*;
+import page.Page_Accessibility;
 import report.CustomSoftAssert;
 import report.Report;
 
@@ -49,6 +50,7 @@ public class TestBase {
     @AfterMethod
     public void assertAll(Method m){
         m_assert.assertAll();
+        backToHome();
     }
 
     public void tearDown(){
@@ -58,6 +60,19 @@ public class TestBase {
 
     @AfterSuite
     public void after(){
+    }
+
+
+    //Temp
+    public void backToHome(){
+        Page_Accessibility page_accessibility=new Page_Accessibility();
+        boolean bHomePage = SeleniumUtils.waitForElementToBeDisplayed(page_accessibility.option_accessibility,1);
+
+        while(!bHomePage){
+            AppiumUtils.pressBackButton();
+            bHomePage = SeleniumUtils.waitForElementToBeDisplayed(page_accessibility.option_accessibility,2);
+        }
+
     }
 
 

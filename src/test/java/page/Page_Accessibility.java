@@ -17,7 +17,7 @@ public class Page_Accessibility extends TestBase {
     }
 
     @FindBy(xpath = "//android.widget.TextView[@content-desc=\"Accessibility\"]")
-    private WebElement option_accessibility;
+    public WebElement option_accessibility;
 
     @FindBy(xpath = "//android.widget.TextView[@content-desc=\"Accessibility Node Querying\"]")
     private WebElement option_accessibilityNodeQuerying;

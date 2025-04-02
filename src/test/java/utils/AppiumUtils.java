@@ -2,6 +2,8 @@ package utils;
 
 import driver.DriverManager;
 import io.appium.java_client.android.AndroidDriver;
+import io.appium.java_client.android.nativekey.AndroidKey;
+import io.appium.java_client.android.nativekey.KeyEvent;
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.Point;
 import org.openqa.selenium.WebElement;
@@ -321,5 +323,18 @@ public class AppiumUtils extends TestBase {
 
 
         driver.perform(Collections.singletonList(seq));
+    }
+
+    public static void pressBackButton() {
+        try {
+            if (DriverManager.getDriver() instanceof AndroidDriver) {
+                AndroidDriver driver = (AndroidDriver) DriverManager.getDriver();
+                driver.pressKey(new KeyEvent(AndroidKey.BACK));
+                logger.info("Pressed the back button on Android");
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+            logger.error("Failed to press back button on Android", e);
+        }
     }
 }

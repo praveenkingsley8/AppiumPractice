@@ -26,6 +26,8 @@ public class TC3_CustomAdapterLongPressTest extends TestBase {
 
         page_customAdapter.clickSampleAction();
 
+
+
     }
 
 
