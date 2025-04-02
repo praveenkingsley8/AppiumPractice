@@ -626,3 +626,544 @@ Session ID: bb186e35-ed7a-4c9f-84e2-18c8eb7d4358
 15:41:07.975 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (1d05a689-6b3d-49a2-a051-ee04ba58b34b)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
 15:41:08.018 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Tea with Aunt Sharon
 15:41:08.920 [main]INFO  test.TC2_AccessibilityTest - Element clicked successfully: [[AndroidDriver:  on ANDROID (1d05a689-6b3d-49a2-a051-ee04ba58b34b)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]]
+21:18:42.045 [main]INFO  test.TC2_AccessibilityTest - ************* DRIVER STARTED *************
+21:18:42.048 [main]INFO  test.TC2_AccessibilityTest - ************* PLATFORM -> ANDROID
+21:18:42.049 [main]INFO  test.TC2_AccessibilityTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+21:18:43.593 [main]INFO  test.TC2_AccessibilityTest - Element is displayed within 20 seconds
+21:18:45.749 [main]INFO  test.TC2_AccessibilityTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Accessibility"]'
+21:18:45.946 [main]INFO  test.TC2_AccessibilityTest - Element is displayed within 20 seconds
+21:18:48.133 [main]INFO  test.TC2_AccessibilityTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Accessibility Node Querying"]'
+21:18:48.200 [main]INFO  test.TC2_AccessibilityTest - INTO waitForElementsToBeDisplayed method for [[[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]], [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]], [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]], [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]], [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]], [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]], [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]]] with timeout = 20 seconds.
+21:18:48.605 [main]INFO  test.TC2_AccessibilityTest - All elements are displayed after 0 seconds.
+21:18:49.202 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:49.252 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Take out Trash
+21:18:49.410 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:49.460 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Do Laundry
+21:18:49.660 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:49.712 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Nap
+21:18:50.129 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:50.177 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Conquer World
+21:18:50.383 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:50.429 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Do Taxes
+21:18:50.601 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:50.655 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Abolish IRS
+21:18:50.816 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:50.865 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Tea with Aunt Sharon
+21:18:51.078 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:51.122 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Take out Trash
+21:18:51.974 [main]INFO  test.TC2_AccessibilityTest - Element clicked successfully: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]]
+21:18:52.176 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:52.222 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Take out Trash
+21:18:52.358 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:52.400 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Do Laundry
+21:18:53.158 [main]INFO  test.TC2_AccessibilityTest - Element clicked successfully: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]]
+21:18:53.364 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:53.414 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Take out Trash
+21:18:53.552 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:53.606 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Do Laundry
+21:18:53.763 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:53.834 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Conquer World
+21:18:54.008 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:54.070 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Nap
+21:18:54.999 [main]INFO  test.TC2_AccessibilityTest - Element clicked successfully: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]]
+21:18:55.226 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:55.278 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Take out Trash
+21:18:55.413 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:55.467 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Do Laundry
+21:18:55.603 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:55.651 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Conquer World
+21:18:56.301 [main]INFO  test.TC2_AccessibilityTest - Element clicked successfully: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]]
+21:18:56.588 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:56.625 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Take out Trash
+21:18:56.752 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:56.793 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Do Laundry
+21:18:56.912 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:56.952 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Conquer World
+21:18:57.063 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:57.105 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Nap
+21:18:57.211 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:57.253 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Do Taxes
+21:18:58.013 [main]INFO  test.TC2_AccessibilityTest - Element clicked successfully: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]]
+21:18:58.212 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:58.263 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Take out Trash
+21:18:58.380 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:58.428 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Do Laundry
+21:18:58.560 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:58.604 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Conquer World
+21:18:58.710 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:58.750 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Nap
+21:18:58.873 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:58.914 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Do Taxes
+21:18:59.038 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:18:59.078 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Abolish IRS
+21:18:59.767 [main]INFO  test.TC2_AccessibilityTest - Element clicked successfully: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]]
+21:18:59.966 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:19:00.007 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Take out Trash
+21:19:00.100 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:19:00.131 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Do Laundry
+21:19:00.219 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:19:00.258 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Conquer World
+21:19:00.369 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:19:00.405 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Nap
+21:19:00.505 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:19:00.545 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Do Taxes
+21:19:00.640 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:19:00.678 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Abolish IRS
+21:19:00.794 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+21:19:00.903 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Tea with Aunt Sharon
+21:19:01.554 [main]INFO  test.TC2_AccessibilityTest - Element clicked successfully: [[AndroidDriver:  on ANDROID (9a107fec-f141-41ca-b666-d32f8985e0be)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]]
+22:58:35.826 [main]INFO  test.TC2_AccessibilityTest - ************* DRIVER STARTED *************
+22:58:35.830 [main]INFO  test.TC2_AccessibilityTest - ************* PLATFORM -> ANDROID
+22:58:35.830 [main]INFO  test.TC2_AccessibilityTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+22:58:36.901 [main]INFO  test.TC2_AccessibilityTest - Element is displayed within 20 seconds
+22:58:38.980 [main]INFO  test.TC2_AccessibilityTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Accessibility"]'
+22:58:39.127 [main]INFO  test.TC2_AccessibilityTest - Element is displayed within 20 seconds
+22:58:40.979 [main]INFO  test.TC2_AccessibilityTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Accessibility Node Querying"]'
+22:58:41.055 [main]INFO  test.TC2_AccessibilityTest - INTO waitForElementsToBeDisplayed method for [[[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]], [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]], [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]], [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]], [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]], [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]], [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]]] with timeout = 20 seconds.
+22:58:41.436 [main]INFO  test.TC2_AccessibilityTest - All elements are displayed after 0 seconds.
+22:58:41.996 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+22:58:42.038 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Take out Trash
+22:58:42.185 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+22:58:42.229 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Do Laundry
+22:58:42.417 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+22:58:42.457 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Nap
+22:58:42.758 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+22:58:42.805 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Conquer World
+22:58:42.980 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+22:58:43.024 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Do Taxes
+22:58:43.166 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+22:58:43.207 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Abolish IRS
+22:58:43.349 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+22:58:43.389 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Tea with Aunt Sharon
+22:58:43.579 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+22:58:43.617 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Take out Trash
+22:58:44.208 [main]INFO  test.TC2_AccessibilityTest - Element clicked successfully: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]]
+22:58:44.510 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+22:58:44.553 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Take out Trash
+22:58:44.667 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+22:58:44.705 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Do Laundry
+22:58:45.336 [main]INFO  test.TC2_AccessibilityTest - Element clicked successfully: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]]
+22:58:45.599 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+22:58:45.639 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Take out Trash
+22:58:45.762 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+22:58:45.803 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Do Laundry
+22:58:45.921 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+22:58:45.961 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Conquer World
+22:58:46.063 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+22:58:46.100 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Nap
+22:58:46.706 [main]INFO  test.TC2_AccessibilityTest - Element clicked successfully: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]]
+22:58:47.018 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+22:58:47.057 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Take out Trash
+22:58:47.170 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+22:58:47.209 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Do Laundry
+22:58:47.312 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+22:58:47.350 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Conquer World
+22:58:48.160 [main]INFO  test.TC2_AccessibilityTest - Element clicked successfully: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.CheckBox[@resource-id="io.appium.android.apis:id/tasklist_finished"]]
+22:58:48.371 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+22:58:48.414 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Take out Trash
+22:58:48.535 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+22:58:48.574 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Do Laundry
+22:58:48.716 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+22:58:48.756 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Conquer World
+22:58:48.864 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+22:58:48.905 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Nap
+22:58:49.005 [main]INFO  test.TC2_AccessibilityTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (78ec4064-968e-482a-ab0c-ed5db89a4e5e)] -> xpath: //android.widget.ListView[@resource-id="android:id/list"]//android.widget.TextView]
+22:58:49.040 [main]INFO  test.TC2_AccessibilityTest - Successfully retrieved text from element: Do Taxes
+11:55:23.423 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* DRIVER STARTED *************
+11:55:23.429 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* PLATFORM -> ANDROID
+11:55:23.430 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+11:55:24.758 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+11:55:26.410 [main]ERROR test.TC3_CustomAdapterLongPressTest - Error clicking the element: Cannot invoke "com.aventstack.extentreports.ExtentTest.pass(String, com.aventstack.extentreports.model.Media)" because the return value of "report.ReportManager.getExtentTest()" is null
+11:56:52.757 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* DRIVER STARTED *************
+11:56:52.760 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* PLATFORM -> ANDROID
+11:56:52.762 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+11:56:54.042 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+11:56:55.810 [main]ERROR test.TC3_CustomAdapterLongPressTest - Error clicking the element: Cannot invoke "com.aventstack.extentreports.ExtentTest.pass(String, com.aventstack.extentreports.model.Media)" because the return value of "report.ReportManager.getExtentTest()" is null
+12:01:31.753 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* DRIVER STARTED *************
+12:01:31.760 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* PLATFORM -> ANDROID
+12:01:31.760 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+12:01:32.794 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+12:01:34.694 [main]ERROR test.TC3_CustomAdapterLongPressTest - Error clicking the element: Cannot invoke "com.aventstack.extentreports.ExtentTest.pass(String, com.aventstack.extentreports.model.Media)" because the return value of "report.ReportManager.getExtentTest()" is null
+12:03:07.738 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* DRIVER STARTED *************
+12:03:07.746 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* PLATFORM -> ANDROID
+12:03:07.746 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+12:03:08.912 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+12:03:10.515 [main]ERROR test.TC3_CustomAdapterLongPressTest - Error clicking the element: Cannot invoke "com.aventstack.extentreports.ExtentTest.pass(String, com.aventstack.extentreports.model.Media)" because the return value of "report.ReportManager.getExtentTest()" is null
+12:04:47.080 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* DRIVER STARTED *************
+12:04:47.083 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* PLATFORM -> ANDROID
+12:04:47.084 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+12:04:48.231 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+12:04:49.961 [main]ERROR test.TC3_CustomAdapterLongPressTest - Error clicking the element: Cannot invoke "com.aventstack.extentreports.ExtentTest.pass(String, com.aventstack.extentreports.model.Media)" because the return value of "report.ReportManager.getExtentTest()" is null
+12:07:06.708 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* DRIVER STARTED *************
+12:07:06.711 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* PLATFORM -> ANDROID
+12:07:06.712 [main]INFO  test.TC3_CustomAdapterLongPressTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+12:07:07.600 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+12:07:09.581 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+12:07:09.709 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+12:07:11.036 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Expandable Lists"]'
+12:07:11.209 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+12:07:12.491 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="1. Custom Adapter"]'
+12:07:12.594 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 20 seconds
+12:07:14.449 [main]INFO  test.TC3_CustomAdapterLongPressTest - Long pressed successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@text="Cat Names"]'
+12:07:14.561 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 3 seconds
+12:07:15.166 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element is displayed within 5 seconds
+12:07:16.599 [main]INFO  test.TC3_CustomAdapterLongPressTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@resource-id="android:id/title" and @text="Sample action"]'
+12:15:01.479 [main]INFO  test.TC4_ScrollTest - ************* DRIVER STARTED *************
+12:15:01.485 [main]INFO  test.TC4_ScrollTest - ************* PLATFORM -> ANDROID
+12:15:01.487 [main]INFO  test.TC4_ScrollTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+12:15:02.590 [main]INFO  test.TC4_ScrollTest - Element is displayed within 5 seconds
+12:15:04.177 [main]INFO  test.TC4_ScrollTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+12:25:31.678 [main]INFO  test.TC4_ScrollTest - ************* DRIVER STARTED *************
+12:25:31.685 [main]INFO  test.TC4_ScrollTest - ************* PLATFORM -> ANDROID
+12:25:31.685 [main]INFO  test.TC4_ScrollTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+12:25:32.623 [main]INFO  test.TC4_ScrollTest - Element is displayed within 5 seconds
+12:25:34.625 [main]INFO  test.TC4_ScrollTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+12:25:36.441 [main]ERROR test.TC4_ScrollTest - Element not displayed within 1 seconds
+12:25:38.317 [main]ERROR test.TC4_ScrollTest - Element not displayed within 1 seconds
+12:25:39.876 [main]INFO  test.TC4_ScrollTest - Element is displayed within 1 seconds
+12:35:00.009 [main]INFO  test.TC4_ScrollTest - ************* DRIVER STARTED *************
+12:35:00.029 [main]INFO  test.TC4_ScrollTest - ************* PLATFORM -> ANDROID
+12:35:00.031 [main]INFO  test.TC4_ScrollTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+12:35:01.397 [main]INFO  test.TC4_ScrollTest - Element is displayed within 5 seconds
+12:35:03.121 [main]INFO  test.TC4_ScrollTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+12:35:04.961 [main]ERROR test.TC4_ScrollTest - Error while scrolling to element: Web View 3
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="WebView3"]' (tried for 1 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.30.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.30.0.jar:?]
+	at utils.AppiumUtils.scrollToElement(AppiumUtils.java:159) ~[test-classes/:?]
+	at test.TC4_ScrollTest.scrollFunctionalityTest(TC4_ScrollTest.java:22) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135) ~[testng-7.5.jar:7.5]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673) ~[testng-7.5.jar:7.5]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220) ~[testng-7.5.jar:7.5]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.5.jar:7.5]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945) ~[testng-7.5.jar:7.5]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193) ~[testng-7.5.jar:7.5]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.5.jar:7.5]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.5.jar:7.5]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:808) [testng-7.5.jar:7.5]
+	at org.testng.TestRunner.run(TestRunner.java:603) [testng-7.5.jar:7.5]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:429) [testng-7.5.jar:7.5]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423) [testng-7.5.jar:7.5]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383) [testng-7.5.jar:7.5]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:326) [testng-7.5.jar:7.5]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.5.jar:7.5]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.5.jar:7.5]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249) [testng-7.5.jar:7.5]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169) [testng-7.5.jar:7.5]
+	at org.testng.TestNG.runSuites(TestNG.java:1092) [testng-7.5.jar:7.5]
+	at org.testng.TestNG.run(TestNG.java:1060) [testng-7.5.jar:7.5]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+Caused by: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [9e688f1a-961b-49b5-860c-b398a11cb3c1, findElement {value=//android.widget.TextView[@content-desc="WebView3"], using=xpath}]
+Capabilities {appium:app: D:\AppiumPractice/apps/ApiD..., appium:appActivity: io.appium.android.apis.ApiD..., appium:appPackage: io.appium.android.apis, appium:automationName: UIAutomator2, appium:databaseEnabled: false, appium:desired: {app: D:\AppiumPractice/apps/ApiD..., automationName: UIAutomator2, deviceName: pixel, platformName: ANDROID}, appium:deviceApiLevel: 30, appium:deviceManufacturer: Google, appium:deviceModel: sdk_gphone_x86_64, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2400, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 11, appium:statBarHeight: 145, appium:takesScreenshot: true, appium:viewportRect: {height: 2255, left: 0, top: 145, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 9e688f1a-961b-49b5-860c-b398a11cb3c1
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.30.0.jar:?]
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:243) ~[java-client-9.4.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.30.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.30.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy31.isDisplayed(Unknown Source) ~[?:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:304) ~[selenium-support-4.30.0.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290) ~[selenium-support-4.30.0.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:287) ~[selenium-support-4.30.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203) ~[selenium-support-4.30.0.jar:?]
+	... 27 more
+12:36:07.887 [main]INFO  test.TC4_ScrollTest - ************* DRIVER STARTED *************
+12:36:07.890 [main]INFO  test.TC4_ScrollTest - ************* PLATFORM -> ANDROID
+12:36:07.890 [main]INFO  test.TC4_ScrollTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+12:36:08.868 [main]INFO  test.TC4_ScrollTest - Element is displayed within 5 seconds
+12:36:10.760 [main]INFO  test.TC4_ScrollTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+12:36:17.987 [main]INFO  test.TC4_ScrollTest - Scroll to element successfully: [[AndroidDriver:  on ANDROID (6a7ff73b-bf87-4e05-bd84-7450e9964ea9)] -> xpath: //android.widget.TextView[@content-desc="WebView3"]]
+12:41:30.639 [main]INFO  test.TC4_ScrollTest - ************* DRIVER STARTED *************
+12:41:30.641 [main]INFO  test.TC4_ScrollTest - ************* PLATFORM -> ANDROID
+12:41:30.641 [main]INFO  test.TC4_ScrollTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+12:41:31.804 [main]INFO  test.TC4_ScrollTest - Element is displayed within 5 seconds
+12:41:33.422 [main]INFO  test.TC4_ScrollTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+12:41:40.127 [main]INFO  test.TC4_ScrollTest - Scroll to element successfully: [[AndroidDriver:  on ANDROID (122fe021-0151-408a-9e4c-dd87358924ae)] -> xpath: //android.widget.TextView[@content-desc="WebView3"]]
+12:41:42.000 [main]ERROR test.TC4_ScrollTest - Error while scrolling up to element: Animation
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Animation"]' (tried for 1 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.30.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.30.0.jar:?]
+	at utils.AppiumUtils.scrollUpToElement(AppiumUtils.java:204) ~[test-classes/:?]
+	at test.TC4_ScrollTest.scrollFunctionalityTest(TC4_ScrollTest.java:22) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135) ~[testng-7.5.jar:7.5]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673) ~[testng-7.5.jar:7.5]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220) ~[testng-7.5.jar:7.5]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.5.jar:7.5]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945) ~[testng-7.5.jar:7.5]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193) ~[testng-7.5.jar:7.5]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.5.jar:7.5]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.5.jar:7.5]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:808) [testng-7.5.jar:7.5]
+	at org.testng.TestRunner.run(TestRunner.java:603) [testng-7.5.jar:7.5]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:429) [testng-7.5.jar:7.5]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423) [testng-7.5.jar:7.5]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383) [testng-7.5.jar:7.5]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:326) [testng-7.5.jar:7.5]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.5.jar:7.5]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.5.jar:7.5]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249) [testng-7.5.jar:7.5]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169) [testng-7.5.jar:7.5]
+	at org.testng.TestNG.runSuites(TestNG.java:1092) [testng-7.5.jar:7.5]
+	at org.testng.TestNG.run(TestNG.java:1060) [testng-7.5.jar:7.5]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+Caused by: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [122fe021-0151-408a-9e4c-dd87358924ae, findElement {using=xpath, value=//android.widget.TextView[@content-desc="Animation"]}]
+Capabilities {appium:app: D:\AppiumPractice/apps/ApiD..., appium:appActivity: io.appium.android.apis.ApiD..., appium:appPackage: io.appium.android.apis, appium:automationName: UIAutomator2, appium:databaseEnabled: false, appium:desired: {app: D:\AppiumPractice/apps/ApiD..., automationName: UIAutomator2, deviceName: pixel, platformName: ANDROID}, appium:deviceApiLevel: 30, appium:deviceManufacturer: Google, appium:deviceModel: sdk_gphone_x86_64, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2400, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 11, appium:statBarHeight: 145, appium:takesScreenshot: true, appium:viewportRect: {height: 2255, left: 0, top: 145, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 122fe021-0151-408a-9e4c-dd87358924ae
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.30.0.jar:?]
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:243) ~[java-client-9.4.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.30.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.30.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy31.isDisplayed(Unknown Source) ~[?:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:304) ~[selenium-support-4.30.0.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290) ~[selenium-support-4.30.0.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:287) ~[selenium-support-4.30.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203) ~[selenium-support-4.30.0.jar:?]
+	... 27 more
+12:42:16.940 [main]INFO  test.TC4_ScrollTest - ************* DRIVER STARTED *************
+12:42:16.943 [main]INFO  test.TC4_ScrollTest - ************* PLATFORM -> ANDROID
+12:42:16.943 [main]INFO  test.TC4_ScrollTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+12:42:18.176 [main]INFO  test.TC4_ScrollTest - Element is displayed within 5 seconds
+12:42:20.833 [main]INFO  test.TC4_ScrollTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+12:42:28.040 [main]INFO  test.TC4_ScrollTest - Scroll to element successfully: [[AndroidDriver:  on ANDROID (adde7a51-6d1e-466c-beac-a8ef1873b4f6)] -> xpath: //android.widget.TextView[@content-desc="WebView3"]]
+12:42:33.372 [main]INFO  test.TC4_ScrollTest - Scroll up to element successfully: [[AndroidDriver:  on ANDROID (adde7a51-6d1e-466c-beac-a8ef1873b4f6)] -> xpath: //android.widget.TextView[@content-desc="Animation"]]
+13:03:59.187 [main]INFO  test.TC5_GallerySwipeTest - ************* DRIVER STARTED *************
+13:03:59.189 [main]INFO  test.TC5_GallerySwipeTest - ************* PLATFORM -> ANDROID
+13:03:59.189 [main]INFO  test.TC5_GallerySwipeTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+13:04:00.234 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 5 seconds
+13:04:01.878 [main]INFO  test.TC5_GallerySwipeTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+13:04:02.011 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 5 seconds
+13:04:03.495 [main]INFO  test.TC5_GallerySwipeTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Gallery"]'
+13:04:03.632 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 5 seconds
+13:04:05.025 [main]INFO  test.TC5_GallerySwipeTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="1. Photos"]'
+13:04:05.151 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 20 seconds
+13:04:58.229 [main]INFO  test.TC5_GallerySwipeTest - ************* DRIVER STARTED *************
+13:04:58.232 [main]INFO  test.TC5_GallerySwipeTest - ************* PLATFORM -> ANDROID
+13:04:58.232 [main]INFO  test.TC5_GallerySwipeTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+13:04:59.388 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 5 seconds
+13:05:01.308 [main]INFO  test.TC5_GallerySwipeTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+13:05:01.504 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 5 seconds
+13:05:03.008 [main]INFO  test.TC5_GallerySwipeTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Gallery"]'
+13:05:03.187 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 5 seconds
+13:05:04.553 [main]INFO  test.TC5_GallerySwipeTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="1. Photos"]'
+13:05:04.708 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 20 seconds
+13:08:08.247 [main]INFO  test.TC5_GallerySwipeTest - ************* DRIVER STARTED *************
+13:08:08.252 [main]INFO  test.TC5_GallerySwipeTest - ************* PLATFORM -> ANDROID
+13:08:08.253 [main]INFO  test.TC5_GallerySwipeTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+13:08:09.426 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 5 seconds
+13:08:11.116 [main]INFO  test.TC5_GallerySwipeTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+13:08:11.315 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 5 seconds
+13:08:12.747 [main]INFO  test.TC5_GallerySwipeTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Gallery"]'
+13:08:12.883 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 5 seconds
+13:08:14.332 [main]INFO  test.TC5_GallerySwipeTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="1. Photos"]'
+13:08:14.458 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 20 seconds
+13:10:57.610 [main]INFO  test.TC5_GallerySwipeTest - ************* DRIVER STARTED *************
+13:10:57.615 [main]INFO  test.TC5_GallerySwipeTest - ************* PLATFORM -> ANDROID
+13:10:57.615 [main]INFO  test.TC5_GallerySwipeTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+13:10:58.670 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 5 seconds
+13:11:00.390 [main]INFO  test.TC5_GallerySwipeTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+13:11:00.563 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 5 seconds
+13:11:02.511 [main]INFO  test.TC5_GallerySwipeTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Gallery"]'
+13:11:02.618 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 5 seconds
+13:11:03.999 [main]INFO  test.TC5_GallerySwipeTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="1. Photos"]'
+13:11:04.124 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 20 seconds
+13:20:36.570 [main]INFO  test.TC5_GallerySwipeTest - ************* DRIVER STARTED *************
+13:20:36.572 [main]INFO  test.TC5_GallerySwipeTest - ************* PLATFORM -> ANDROID
+13:20:36.572 [main]INFO  test.TC5_GallerySwipeTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+13:20:37.661 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 5 seconds
+13:20:39.402 [main]INFO  test.TC5_GallerySwipeTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+13:20:39.571 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 5 seconds
+13:20:41.593 [main]INFO  test.TC5_GallerySwipeTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Gallery"]'
+13:20:41.772 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 5 seconds
+13:20:43.669 [main]INFO  test.TC5_GallerySwipeTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="1. Photos"]'
+13:20:43.796 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 20 seconds
+13:25:12.120 [main]INFO  test.TC5_GallerySwipeTest - ************* DRIVER STARTED *************
+13:25:12.124 [main]INFO  test.TC5_GallerySwipeTest - ************* PLATFORM -> ANDROID
+13:25:12.124 [main]INFO  test.TC5_GallerySwipeTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+13:25:15.029 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 5 seconds
+13:25:18.126 [main]INFO  test.TC5_GallerySwipeTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+13:25:18.667 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 5 seconds
+13:25:23.854 [main]INFO  test.TC5_GallerySwipeTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Gallery"]'
+13:25:24.253 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 5 seconds
+13:25:26.555 [main]INFO  test.TC5_GallerySwipeTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="1. Photos"]'
+13:25:26.655 [main]INFO  test.TC5_GallerySwipeTest - Element is displayed within 20 seconds
+13:52:51.697 [main]INFO  test.TC6_DragAndDropTest - ************* DRIVER STARTED *************
+13:52:51.700 [main]INFO  test.TC6_DragAndDropTest - ************* PLATFORM -> ANDROID
+13:52:51.700 [main]INFO  test.TC6_DragAndDropTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+13:52:52.758 [main]INFO  test.TC6_DragAndDropTest - Element is displayed within 5 seconds
+13:52:54.572 [main]INFO  test.TC6_DragAndDropTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Views"]'
+13:52:54.739 [main]INFO  test.TC6_DragAndDropTest - Element is displayed within 5 seconds
+13:52:56.415 [main]INFO  test.TC6_DragAndDropTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Drag and Drop"]'
+13:52:56.652 [main]INFO  test.TC6_DragAndDropTest - Element is displayed within 20 seconds
+13:53:04.067 [main]INFO  test.TC6_DragAndDropTest - Drag and Drop performed successfully 
+14:01:55.240 [main]INFO  test.TC7_FlipTapTest - ************* DRIVER STARTED *************
+14:01:55.241 [main]INFO  test.TC7_FlipTapTest - ************* PLATFORM -> ANDROID
+14:01:55.241 [main]INFO  test.TC7_FlipTapTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+14:01:56.324 [main]INFO  test.TC7_FlipTapTest - Element is displayed within 5 seconds
+14:01:58.067 [main]INFO  test.TC7_FlipTapTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Animation"]'
+14:01:58.201 [main]INFO  test.TC7_FlipTapTest - Element is displayed within 5 seconds
+14:01:59.567 [main]INFO  test.TC7_FlipTapTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="View Flip"]'
+14:01:59.691 [main]INFO  test.TC7_FlipTapTest - Element is displayed within 20 seconds
+14:05:18.079 [main]INFO  test.TC7_FlipTapTest - ************* DRIVER STARTED *************
+14:05:18.082 [main]INFO  test.TC7_FlipTapTest - ************* PLATFORM -> ANDROID
+14:05:18.083 [main]INFO  test.TC7_FlipTapTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+14:05:19.257 [main]INFO  test.TC7_FlipTapTest - Element is displayed within 5 seconds
+14:05:20.992 [main]INFO  test.TC7_FlipTapTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Animation"]'
+14:05:21.160 [main]INFO  test.TC7_FlipTapTest - Element is displayed within 5 seconds
+14:05:22.597 [main]INFO  test.TC7_FlipTapTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="View Flip"]'
+14:05:22.763 [main]INFO  test.TC7_FlipTapTest - Element is displayed within 20 seconds
+14:05:25.155 [main]INFO  test.TC7_FlipTapTest - Tapped successfully: [[AndroidDriver:  on ANDROID (6afe0e82-710e-4bf8-b08b-f257fcd25426)] -> xpath: //android.widget.Button[@content-desc="Flip"]]
+14:26:04.988 [main]INFO  test.TC8_SimpleAlertTest - ************* DRIVER STARTED *************
+14:26:04.991 [main]INFO  test.TC8_SimpleAlertTest - ************* PLATFORM -> ANDROID
+14:26:04.991 [main]INFO  test.TC8_SimpleAlertTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+14:26:06.058 [main]INFO  test.TC8_SimpleAlertTest - Element is displayed within 5 seconds
+14:26:07.826 [main]INFO  test.TC8_SimpleAlertTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="App"]'
+14:26:07.999 [main]INFO  test.TC8_SimpleAlertTest - Element is displayed within 5 seconds
+14:26:09.459 [main]INFO  test.TC8_SimpleAlertTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Alert Dialogs"]'
+14:26:09.606 [main]INFO  test.TC8_SimpleAlertTest - Element is displayed within 20 seconds
+14:26:10.061 [main]INFO  test.TC8_SimpleAlertTest - Element is displayed within 5 seconds
+14:26:11.228 [main]INFO  test.TC8_SimpleAlertTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.Button[@content-desc="OK Cancel dialog with a message"]'
+14:26:11.369 [main]INFO  test.TC8_SimpleAlertTest - Element is displayed within 5 seconds
+14:26:12.275 [main]INFO  test.TC8_SimpleAlertTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.Button[@resource-id="android:id/button1"]'
+14:36:37.940 [main]INFO  test.TC9_SingleChoiceAlertTest - ************* DRIVER STARTED *************
+14:36:37.941 [main]INFO  test.TC9_SingleChoiceAlertTest - ************* PLATFORM -> ANDROID
+14:36:37.943 [main]INFO  test.TC9_SingleChoiceAlertTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+14:36:39.059 [main]INFO  test.TC9_SingleChoiceAlertTest - Element is displayed within 5 seconds
+14:36:40.717 [main]INFO  test.TC9_SingleChoiceAlertTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="App"]'
+14:36:40.851 [main]INFO  test.TC9_SingleChoiceAlertTest - Element is displayed within 5 seconds
+14:36:42.306 [main]INFO  test.TC9_SingleChoiceAlertTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Alert Dialogs"]'
+14:36:42.498 [main]INFO  test.TC9_SingleChoiceAlertTest - Element is displayed within 20 seconds
+14:36:42.970 [main]INFO  test.TC9_SingleChoiceAlertTest - Element is displayed within 5 seconds
+14:36:44.333 [main]INFO  test.TC9_SingleChoiceAlertTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.Button[@content-desc="Single choice list"]'
+14:36:44.373 [main]INFO  test.TC9_SingleChoiceAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (158c41af-e843-42e5-add3-b45ec8fb0112)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:36:44.406 [main]INFO  test.TC9_SingleChoiceAlertTest - Successfully retrieved text from element: Map
+14:36:44.406 [main]INFO  test.TC9_SingleChoiceAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (158c41af-e843-42e5-add3-b45ec8fb0112)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:36:44.438 [main]INFO  test.TC9_SingleChoiceAlertTest - Successfully retrieved text from element: Satellite
+14:36:44.438 [main]INFO  test.TC9_SingleChoiceAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (158c41af-e843-42e5-add3-b45ec8fb0112)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:36:44.470 [main]INFO  test.TC9_SingleChoiceAlertTest - Successfully retrieved text from element: Traffic
+14:36:44.470 [main]INFO  test.TC9_SingleChoiceAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (158c41af-e843-42e5-add3-b45ec8fb0112)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:36:44.508 [main]INFO  test.TC9_SingleChoiceAlertTest - Successfully retrieved text from element: Street view
+14:36:44.545 [main]INFO  test.TC9_SingleChoiceAlertTest - Element is displayed within 5 seconds
+14:36:45.508 [main]INFO  test.TC9_SingleChoiceAlertTest - Element clicked successfully: [[AndroidDriver:  on ANDROID (158c41af-e843-42e5-add3-b45ec8fb0112)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:36:45.649 [main]INFO  test.TC9_SingleChoiceAlertTest - Element is displayed within 5 seconds
+14:36:46.531 [main]INFO  test.TC9_SingleChoiceAlertTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.Button[@resource-id="android:id/button1"]'
+14:52:03.314 [main]INFO  test.TC11_RepeatAlertTest - ************* DRIVER STARTED *************
+14:52:03.318 [main]INFO  test.TC11_RepeatAlertTest - ************* PLATFORM -> ANDROID
+14:52:03.319 [main]INFO  test.TC11_RepeatAlertTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+14:52:04.504 [main]INFO  test.TC11_RepeatAlertTest - Element is displayed within 5 seconds
+14:52:06.529 [main]INFO  test.TC11_RepeatAlertTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="App"]'
+14:52:06.823 [main]INFO  test.TC11_RepeatAlertTest - Element is displayed within 5 seconds
+14:52:08.791 [main]INFO  test.TC11_RepeatAlertTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Alert Dialogs"]'
+14:52:09.104 [main]INFO  test.TC11_RepeatAlertTest - Element is displayed within 20 seconds
+14:52:09.550 [main]INFO  test.TC11_RepeatAlertTest - Element is displayed within 5 seconds
+14:52:10.993 [main]INFO  test.TC11_RepeatAlertTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.Button[@content-desc="Repeat alarm"]'
+14:52:11.047 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:11.085 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Monday
+14:52:11.138 [main]INFO  test.TC11_RepeatAlertTest - Element is displayed within 5 seconds
+14:52:12.182 [main]INFO  test.TC11_RepeatAlertTest - Element clicked successfully: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:12.183 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:12.230 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Tuesday
+14:52:12.230 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:12.275 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Tuesday
+14:52:12.622 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:12.669 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Wednesday
+14:52:12.669 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:12.713 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Wednesday
+14:52:12.713 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:12.758 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Wednesday
+14:52:12.823 [main]INFO  test.TC11_RepeatAlertTest - Element is displayed within 5 seconds
+14:52:14.038 [main]INFO  test.TC11_RepeatAlertTest - Element clicked successfully: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:14.040 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:14.094 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Thursday
+14:52:14.095 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:14.143 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Thursday
+14:52:14.144 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:14.194 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Thursday
+14:52:14.194 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:14.240 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Thursday
+14:52:14.603 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:14.713 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Friday
+14:52:14.713 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:14.843 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Friday
+14:52:14.843 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:14.913 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Friday
+14:52:14.913 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:14.957 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Friday
+14:52:14.958 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:15.002 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Friday
+14:52:15.065 [main]INFO  test.TC11_RepeatAlertTest - Element is displayed within 5 seconds
+14:52:16.100 [main]INFO  test.TC11_RepeatAlertTest - Element clicked successfully: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:16.101 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:16.144 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Saturday
+14:52:16.144 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:16.182 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Saturday
+14:52:16.182 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:16.221 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Saturday
+14:52:16.221 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:16.260 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Saturday
+14:52:16.260 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:16.296 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Saturday
+14:52:16.633 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:16.680 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Sunday
+14:52:16.680 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:16.721 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Sunday
+14:52:16.721 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:16.763 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Sunday
+14:52:16.763 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:16.875 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Sunday
+14:52:16.876 [main]INFO  test.TC11_RepeatAlertTest - INTO getTextInElement method for element: [[AndroidDriver:  on ANDROID (efa14bac-9b60-400c-8cf0-3b6b0d2c81b1)] -> xpath: //android.widget.CheckedTextView[@resource-id="android:id/text1"]]
+14:52:16.987 [main]INFO  test.TC11_RepeatAlertTest - Successfully retrieved text from element: Every Sunday
+14:52:17.714 [main]INFO  test.TC11_RepeatAlertTest - Element is displayed within 5 seconds
+14:52:18.709 [main]INFO  test.TC11_RepeatAlertTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.Button[@resource-id="android:id/button1"]'
+14:53:23.945 [main]INFO  test.TC10_EntryDialogAlertTest - ************* DRIVER STARTED *************
+14:53:23.948 [main]INFO  test.TC10_EntryDialogAlertTest - ************* PLATFORM -> ANDROID
+14:53:23.949 [main]INFO  test.TC10_EntryDialogAlertTest - ************* INSTALLING APP -> ApiDemos-debug.apk
+14:53:24.933 [main]INFO  test.TC10_EntryDialogAlertTest - Element is displayed within 5 seconds
+14:53:26.577 [main]INFO  test.TC10_EntryDialogAlertTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="App"]'
+14:53:26.722 [main]INFO  test.TC10_EntryDialogAlertTest - Element is displayed within 5 seconds
+14:53:28.252 [main]INFO  test.TC10_EntryDialogAlertTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@content-desc="Alert Dialogs"]'
+14:53:28.366 [main]INFO  test.TC10_EntryDialogAlertTest - Element is displayed within 20 seconds
+14:53:28.855 [main]INFO  test.TC10_EntryDialogAlertTest - Element is displayed within 5 seconds
+14:53:30.035 [main]INFO  test.TC10_EntryDialogAlertTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.Button[@content-desc="Text Entry dialog"]'
+14:53:31.671 [main]INFO  test.TC10_EntryDialogAlertTest - Text (god) sent successfully to element: [[AndroidDriver:  on ANDROID (95cfde98-3d13-4578-9d0c-81836d628655)] -> xpath: //android.widget.EditText[@resource-id="io.appium.android.apis:id/username_edit"]]
+14:53:33.046 [main]INFO  test.TC10_EntryDialogAlertTest - Text (password) sent successfully to element: [[AndroidDriver:  on ANDROID (95cfde98-3d13-4578-9d0c-81836d628655)] -> xpath: //android.widget.EditText[@resource-id="io.appium.android.apis:id/password_edit"]]
+14:53:33.196 [main]INFO  test.TC10_EntryDialogAlertTest - Element is displayed within 5 seconds
+14:53:34.063 [main]INFO  test.TC10_EntryDialogAlertTest - Element clicked successfully: Proxy element for: DefaultElementLocator 'By.xpath: //android.widget.Button[@resource-id="android:id/button1"]'

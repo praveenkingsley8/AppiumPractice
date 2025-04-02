@@ -14,7 +14,6 @@ import java.lang.reflect.Method;
 import java.net.MalformedURLException;
 
 public class TestBase {
-    public AppiumDriver driver;
     public static Logger logger;
     public static CustomSoftAssert m_assert;
 

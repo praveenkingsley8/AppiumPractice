@@ -30,6 +30,8 @@ public class SeleniumUtils extends TestBase {
         }
 
         try {
+            SeleniumUtils.waitForElementToBeDisplayed(element,5);
+
             WebDriverWait wait = new WebDriverWait(DriverManager.getDriver(), Duration.ofSeconds(10));
             wait.until(ExpectedConditions.elementToBeClickable(element));
 
